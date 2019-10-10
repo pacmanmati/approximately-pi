@@ -11,7 +11,6 @@
 #include <iostream>
 #include <random>
 #include <string>
-// #include <cmath>x
 
 using namespace std;
 
